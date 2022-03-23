@@ -1,2 +1,15 @@
 # Python-Music-Player
 A music player with gui made with python using tkinter and pygame
+
+This Code requires python installed on your computer, python can be downloaded at https://www.python.org/downloads/
+
+you have to install pygame and tkinter in the command prompt/terminal using "pip install pygame" and "pip install tkinter" before using the app
+
+The code can only be used for personal use and educational purposes
+
+In order for the app to show the songs you have, you must have all your songs in C:\Users\"YourUsername"\Music
+
+if you want to change the path where the app searches for songs, you must change the "rootpath" variable in line 11 according to the path where you have kept your songs
+ex: C:/Downloads
+
+thank you for downloading :)
