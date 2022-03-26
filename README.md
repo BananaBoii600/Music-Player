@@ -15,4 +15,4 @@ you have to install pygame and tkinter in the command prompt/terminal using `pip
 if you want to change the path where the app searches for songs, you must change the "rootpath" variable in line 11 according to the path where you have kept your songs
 ex: C:/Downloads
 
-thank you for downloading :)
+# Thank you for downloading :)
