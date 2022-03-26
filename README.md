@@ -1,7 +1,7 @@
 # Python-Music-Player
 A music player with gui made with python using tkinter and pygame
 
-This Code requires python installed on your computer, python can be downloaded at https://www.python.org/downloads/
+This Code requires python installed on your computer, python can be downloaded [here](https://www.python.org/downloads)
 
 The code can only be used for personal use and educational purposes
 
