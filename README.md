@@ -7,7 +7,7 @@ The code can only be used for personal use and educational purposes
 
 
 # Important Instruction
-In order for the app to show the songs you have, you must have all your songs in C:\Users\"YourUsername"\Music
+In order for the app to show the songs you have, you must have all your songs in `C:\Users\"YourUsername"\Music`
 
 # Setup
 you have to install pygame and tkinter in the command prompt/terminal using `pip install pygame` and `pip install tkinter` in order to use the app
