@@ -13,7 +13,7 @@ The code can only be used for personal use and educational purposes
 **In order for the app to show the songs you have, you must have all your songs in**
 
 ```sh
-C:\Users\"YourUsername"\Music
+C:\Music
 ```
 
 # Setup
